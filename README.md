@@ -1,6 +1,6 @@
-# Champs Sports Lovers - Password Reset Website
+# FoodieX - Password Reset Website
 
-A dedicated password reset website for the Champs Sports Lovers Expo app, built with Next.js and Supabase.
+A dedicated password reset website for the FoodieX Expo app, built with Next.js and Supabase.
 
 ## Features
 
@@ -155,7 +155,7 @@ If you encounter issues:
 
 For technical support or questions about this password reset website, contact:
 
-- **Email**: support@champssports.com
+- **Email**: support@foodiex.com
 - **Documentation**: Check the inline code comments for detailed explanations
 - **Troubleshooting**: See [TROUBLESHOOTING.md](./TROUBLESHOOTING.md) for common issues
 
